@@ -9,3 +9,8 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 ###### Salvar informações pelo navegador, criar lista e exclusão de dados salvos. <span>
 * 2º Dia Lista de tarefas <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/To-Do_List">Link para meu código</a>
 ![to-do-list](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/8767c451-af17-497b-8a74-18a1168e42ec)
+
+### O que eu aprendi
+###### Animações de imagen, restruturação e movimentos com css <span>
+* 3º Animação de Planetas <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Animation_Effects">Link para meu código</a>
+![PlanetAnimation](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/3d922098-3803-4d50-b2cb-38b34d8ef5d0)
