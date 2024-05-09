@@ -14,3 +14,9 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 ###### Animações de imagen, restruturação e movimentos com css <span>
 * 3º Animação de Planetas <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Animation_Effects">Link para meu código</a>
 ![PlanetAnimation](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/3d922098-3803-4d50-b2cb-38b34d8ef5d0)
+
+
+### O que eu aprendi
+###### Animação, usando um video .Mp4 <span>
+* 4º Nome com nuvem de fumaça <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/SmokeAnimation">Link para meu código</a>
+![smokeAction](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/51e1eba5-9356-436e-a92f-3e50ed7d6757)
