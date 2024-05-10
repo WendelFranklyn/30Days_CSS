@@ -23,6 +23,6 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 
 ### O que eu aprendi
 ###### POO com efeito e animação via javascript <span>
-* 6º Efeito Matrix <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Matrix_Rain">Link para meu código</a>
+* 5º Efeito Matrix <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Matrix_Rain">Link para meu código</a>
 ![matrix](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/6c018e6d-06e0-425a-b619-88acac67c46d)
 
