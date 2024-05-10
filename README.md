@@ -20,3 +20,9 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 ###### Animação, usando um video .Mp4 <span>
 * 4º Nome com nuvem de fumaça <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/SmokeAnimation">Link para meu código</a>
 ![smokeAction](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/51e1eba5-9356-436e-a92f-3e50ed7d6757)
+
+### O que eu aprendi
+###### POO com efeito e animação via javascript <span>
+* 6º Efeito Matrix <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Matrix_Rain">Link para meu código</a>
+![matrix](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/6c018e6d-06e0-425a-b619-88acac67c46d)
+
