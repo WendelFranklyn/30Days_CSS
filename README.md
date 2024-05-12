@@ -29,6 +29,7 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 ### O que eu aprendi
 ###### Animação utilizando o Z-index <span>
 * 6º Efeito Matrix <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Earth_Sun">Link para meu código</a>
+
 ![earth_sun](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/ef715e63-371d-4e5a-ba4b-2644851c8b92)
 
 
