@@ -32,4 +32,8 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 
 ![earth_sun](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/ef715e63-371d-4e5a-ba4b-2644851c8b92)
 
+### O que eu aprendi
+###### Mexer com js/vanilla <span>
+* 7º Efeito Matrix <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Calculator">Link para meu código</a>
+![calculator](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/63a3a773-7f54-4a4d-b6e5-4675b66f5977)
 
