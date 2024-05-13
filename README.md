@@ -37,3 +37,9 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 * 7º Efeito Matrix <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Calculator">Link para meu código</a>
 ![calculator](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/63a3a773-7f54-4a4d-b6e5-4675b66f5977)
 
+
+### O que eu aprendi
+###### Sobreposição de imagens com efeito splash<span>
+* 8º Efeito Matrix <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/splash">Link para meu código</a>
+
+![Captura de tela 2024-05-13 155734](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/0a7d6031-e2a4-4d72-a443-d622f545dd41)
