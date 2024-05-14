@@ -28,18 +28,18 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 
 ### O que eu aprendi
 ###### Animação utilizando o Z-index <span>
-* 6º Efeito Matrix <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Earth_Sun">Link para meu código</a>
+* 6º Rotação do planeta terra no sol <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Earth_Sun">Link para meu código</a>
 
 ![earth_sun](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/ef715e63-371d-4e5a-ba4b-2644851c8b92)
 
 ### O que eu aprendi
 ###### Mexer com js/vanilla <span>
-* 7º Efeito Matrix <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Calculator">Link para meu código</a>
+* 7º Calculadora com efeito Vanilla <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Calculator">Link para meu código</a>
 ![calculator](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/63a3a773-7f54-4a4d-b6e5-4675b66f5977)
 
 
 ### O que eu aprendi
 ###### Sobreposição de imagens com efeito splash<span>
-* 8º Efeito Matrix <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/splash">Link para meu código</a>
+* 8º Splash <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/splash">Link para meu código</a>
 
 ![Captura de tela 2024-05-13 155734](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/0a7d6031-e2a4-4d72-a443-d622f545dd41)
