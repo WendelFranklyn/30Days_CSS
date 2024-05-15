@@ -43,3 +43,10 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 * 8º Splash <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/splash">Link para meu código</a>
 
 ![Captura de tela 2024-05-13 155734](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/0a7d6031-e2a4-4d72-a443-d622f545dd41)
+
+### O que eu aprendi
+###### Criação de esferar com border e border raidius, animações para um loading<span>
+* 9º Loading Ring <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Loader_Ring">Link para meu código</a>
+
+![ring_animation](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/c6e6b897-b72d-4839-b40d-eaddf55e58f1)
+
