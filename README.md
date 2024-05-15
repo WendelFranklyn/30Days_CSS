@@ -50,3 +50,7 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 
 ![ring_animation](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/c6e6b897-b72d-4839-b40d-eaddf55e58f1)
 
+### O que eu aprendi
+###### Efeitos de animações usando textos<span>
+* 10º Animação de texto <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/TextAnimation">Link para meu código</a>
+![TextAnimation](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/dd76c0d3-5446-4735-8eb3-50e2ec1624d6)
