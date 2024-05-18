@@ -61,4 +61,11 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 
 ![HoverMe](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/641acf96-9693-4c4b-8c8b-22a2a423b459)
 
+### O que eu aprendi
+###### Efeitos com Hover e ::before , nth-child e transações<span>
+* 12º Efeito de hover nos botões<a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Social_Media_Buttons">Link para meu código</a>
+
+![SocialMediaButtons](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/d62b17ce-0ea7-4699-b226-cddf43d0b518)
+
+
 
