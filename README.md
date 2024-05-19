@@ -57,15 +57,19 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 
 ### O que eu aprendi
 ###### Efeitos com Hover e Z-Index<span>
-* 11º Efeito de hover nos botões<a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Buttons_With_Hover">Link para meu código</a>
+* 11º Efeito de hover nos botões <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Buttons_With_Hover">Link para meu código</a>
 
 ![HoverMe](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/641acf96-9693-4c4b-8c8b-22a2a423b459)
 
 ### O que eu aprendi
 ###### Efeitos com Hover e ::before , nth-child e transações<span>
-* 12º Efeito de hover nos botões<a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Social_Media_Buttons">Link para meu código</a>
+* 12º Efeito de hover nos botões <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Social_Media_Buttons">Link para meu código</a>
 
 ![SocialMediaButtons](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/d62b17ce-0ea7-4699-b226-cddf43d0b518)
 
 
+### O que eu aprendi
+###### Efeitos de fumaça usando span, background: linear-gradient, border-radius<span>
+* 13º Animação de xícara quente de chá <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Animated_Hot_Cup_of_Tea">Link para meu código</a>
+![coffe_effect](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/74c84f8e-052d-4611-9f9b-8cd609f0e108)
 
