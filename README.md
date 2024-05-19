@@ -73,3 +73,9 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 * 13º Animação de xícara quente de chá <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Animated_Hot_Cup_of_Tea">Link para meu código</a>
 ![coffe_effect](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/74c84f8e-052d-4611-9f9b-8cd609f0e108)
 
+### O que eu aprendi
+###### class, @keyframes, border-radius e justify-content<span>
+* 14º Animação de fantasminha voando <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Floating%20Ghost">Link para meu código</a>
+![Ghost](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/17a9407d-0964-4222-891d-4c84e8266f2b)
+
+
