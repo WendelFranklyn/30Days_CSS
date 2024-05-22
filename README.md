@@ -1,3 +1,6 @@
+<h1>Youtube Referencias dos desafios</h1>
+<a href="https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog">Online Tutorials</a> - <a href="https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A">Creative Creations</a> -  <a href="https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw">DarkCode</a> - <a href="https://www.youtube.com/@GreatStackDev">GreatStack</a>
+
 # 30 Dias de CSS
 ### O que eu aprendi
 ###### Configuração da API, como puxar a chave, seletores e detalhamendo de classes do css 
