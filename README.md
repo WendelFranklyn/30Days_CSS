@@ -84,3 +84,10 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 
 ![Liquid](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/a208add1-e6cf-4b01-a4f7-6c82ec2e6ef6)
 
+### O que eu aprendi
+###### @Keyframes <span>
+* 16º Flip Animation <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Flip_Animation">Link para meu código</a>
+![FlipAnimation](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/ff7a9a89-9ec9-47d2-a7b5-f0585ef676e5)
+
+
+
