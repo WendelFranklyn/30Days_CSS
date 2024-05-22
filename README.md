@@ -78,4 +78,9 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 * 14º Animação de fantasminha voando <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Floating%20Ghost">Link para meu código</a>
 ![Ghost](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/17a9407d-0964-4222-891d-4c84e8266f2b)
 
+### O que eu aprendi
+###### svg, efeito de particulas, random() e filter<span>
+* 15º Efeito liquido de particulas <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Liquid_Blast_Effect">Link para meu código</a>
+
+![Liquid](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/a208add1-e6cf-4b01-a4f7-6c82ec2e6ef6)
 
