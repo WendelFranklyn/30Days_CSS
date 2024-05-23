@@ -92,5 +92,11 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 * 16º Flip Animation <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Flip_Animation">Link para meu código</a>
 ![FlipAnimation](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/ff7a9a89-9ec9-47d2-a7b5-f0585ef676e5)
 
+### O que eu aprendi
+###### @Keyframes, border, transform, -webkit-box-reflect<span>
+* 17º Perpetual Animation <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/17Dia_Perpetual__animation">Link para meu código</a>
+![Perpetual_animation](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/bb379861-43ba-46c2-b2d1-e46032f29588)
+
+
 
 
