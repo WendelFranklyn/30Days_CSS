@@ -97,6 +97,13 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 * 17º Perpetual Animation <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/17Dia_Perpetual__animation">Link para meu código</a>
 ![Perpetual_animation](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/bb379861-43ba-46c2-b2d1-e46032f29588)
 
+### O que eu aprendi
+###### Backgroudn: url, min-height, animation, @keyframes<span>
+* 18º Fingerprint Scanner<a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/18Dia_Fingerprint_Scanner">Link para meu código</a>
+![scanner](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/72585704-91f0-4aaa-ba93-85067d1bf7c1)
+
+
+
 
 
 
