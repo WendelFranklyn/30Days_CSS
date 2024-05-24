@@ -42,13 +42,13 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 
 
 ### O que eu aprendi
-###### Sobreposição de imagens com efeito splash<span>
+###### Sobreposição de imagem com efeito splash<span>
 * 8º Splash <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/splash">Link para meu código</a>
 
 ![Captura de tela 2024-05-13 155734](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/0a7d6031-e2a4-4d72-a443-d622f545dd41)
 
 ### O que eu aprendi
-###### Criação de esferar com border e border raidius, animações para um loading<span>
+###### Criação de esferar com border e border radius, animações para um loading<span>
 * 9º Loading Ring <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Loader_Ring">Link para meu código</a>
 
 ![ring_animation](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/c6e6b897-b72d-4839-b40d-eaddf55e58f1)
@@ -98,7 +98,7 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 ![Perpetual_animation](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/bb379861-43ba-46c2-b2d1-e46032f29588)
 
 ### O que eu aprendi
-###### Backgroudn: url, min-height, animation, @keyframes<span>
+###### Background: url, min-height, animation, @keyframes<span>
 * 18º Fingerprint Scanner<a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/18Dia_Fingerprint_Scanner">Link para meu código</a>
 ![scanner](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/72585704-91f0-4aaa-ba93-85067d1bf7c1)
 
