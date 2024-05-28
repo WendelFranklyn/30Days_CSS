@@ -112,6 +112,11 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 * 20º Glowing Button Hover Effects <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/20Dia_Eyes">Link para meu código</a>
 ![eyes](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/67530deb-5222-4024-89b9-e1b2f70f58ba)
 
+### O que eu aprendi
+###### animation, opacity, @keyframes<span>
+* 21º TextAnimation <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/21Dia_TextAnimation">Link para meu código</a>
+![TextAnimation](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/75ec8a5f-2415-4690-8b83-c02ad16ae373)
+
 
 
 
