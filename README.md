@@ -118,8 +118,11 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 ![TextAnimation](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/75ec8a5f-2415-4690-8b83-c02ad16ae373)
 
 
+### O que eu aprendi
+###### h2:hover span:nth-child()::after, letter-spacing<span>
+* 22º Text Effects <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia22_Glowing_Text">Link para meu código</a>
 
-
+![GlowingText](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/956af54c-8ac9-4c12-a435-e294ce29ee62)
 
 
 
