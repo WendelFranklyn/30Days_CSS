@@ -124,7 +124,7 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 
 ### O que eu aprendi
 ###### svg, filter;url(),animate,baseFrequency<span>
-* 22º TextAnimation <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.23_AnimationEffects">Link para meu código</a>
+* 23º Creative box Border Hover Effects <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.23_AnimationEffects">Link para meu código</a>
 
 ![WaterWave](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/63a88f4b-9e2f-485b-ac5b-90cf11c999e7)
 
