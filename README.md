@@ -122,3 +122,9 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 * 22º TextAnimation <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.22_Glowing_Text">Link para meu código</a>
 ![GlowingText](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/604859f1-a450-4ad2-a36e-4cffda8a244f)
 
+### O que eu aprendi
+###### svg, filter;url(),animate,baseFrequency<span>
+* 22º TextAnimation <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.23_AnimationEffects">Link para meu código</a>
+
+![WaterWave](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/63a88f4b-9e2f-485b-ac5b-90cf11c999e7)
+
