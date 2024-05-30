@@ -128,3 +128,11 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 
 ![WaterWave](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/63a88f4b-9e2f-485b-ac5b-90cf11c999e7)
 
+### O que eu aprendi
+###### clip-path: polygon, animation, nth-child()<span>
+* 24º Water Wave text <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.24_Water_Wave_Text">Link para meu código</a>
+![waterText](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/34a6566a-f814-4a03-b2e2-4b0d305f67f5)
+
+
+
+
