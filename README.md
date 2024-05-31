@@ -133,6 +133,9 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 * 24º Water Wave text <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.24_Water_Wave_Text">Link para meu código</a>
 ![waterText](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/34a6566a-f814-4a03-b2e2-4b0d305f67f5)
 
-
+### O que eu aprendi
+###### Gradient, background-position, background-image<span>
+* 25º Gradient Background Animation <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.25_BackgroundAnimation">Link para meu código</a>
+![Gradient](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/071ca6c0-c8e7-411f-8724-bb9073a85678)
 
 
