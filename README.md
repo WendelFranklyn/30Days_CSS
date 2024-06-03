@@ -152,3 +152,9 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 ###### box-shadow, animation-duration, @keyframes<span>
 * 28º Animated Background <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.28_AnimatedBackground">Link para meu código</a>
 ![AnimatedBackground](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/78f33f15-fc3f-4c29-aa8d-336e777f66dc)
+
+### O que eu aprendi
+###### background: url(), filter, cursor, @keyframes<span>
+* 29º Glitch Effects <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.29_GlitchEffect">Link para meu código</a>
+![glitch](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/aca9abe7-d1e3-4d86-bd29-f5c6b2198a39)
+
