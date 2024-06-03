@@ -138,4 +138,17 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 * 25º Gradient Background Animation <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.25_BackgroundAnimation">Link para meu código</a>
 ![Gradient](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/071ca6c0-c8e7-411f-8724-bb9073a85678)
 
+### O que eu aprendi
+###### transform-style: preserve-3d, transform, box-shadow<span>
+* 26º Ambient Light <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.26_Ambient_LightEffects">Link para meu código</a>
+![Ambient_Ligth](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/88fa318b-edc5-4b8a-aee2-e9c552a12d39)
 
+### O que eu aprendi
+###### :after, :before, text-transform, li, a<span>
+* 27º Menu Itens Hover <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.27_MenuItems_Hover">Link para meu código</a>
+![MenuItemsHover](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/5b83329c-c5ee-4873-ae12-22f9714794fc)
+
+### O que eu aprendi
+###### box-shadow, animation-duration, @keyframes<span>
+* 28º Animated Background <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.28_AnimatedBackground">Link para meu código</a>
+![AnimatedBackground](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/78f33f15-fc3f-4c29-aa8d-336e777f66dc)
