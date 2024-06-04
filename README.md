@@ -156,5 +156,11 @@ Site usado para puxar as informações https://openweathermap.org/<span>
 ### O que eu aprendi
 ###### background: url(), filter, cursor, @keyframes<span>
 * 29º Glitch Effects <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.29_GlitchEffect">Link para meu código</a>
-![glitch](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/aca9abe7-d1e3-4d86-bd29-f5c6b2198a39)
+![glitch](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/d5fef217-e7b1-4ab5-9527-501521c525e3)
+
+### O que eu aprendi
+###### gap, filter, cursor, @keyframes<span>
+* 30º Glitch Effects <a href="https://github.com/WendelFranklyn/30Days_CSS/tree/main/Dia.30_TextHoverTransition">Link para meu código</a>
+![TextHover](https://github.com/WendelFranklyn/30Days_CSS/assets/69936829/d309de29-48bc-4b8b-be28-7f7609f5927e)
+
 
