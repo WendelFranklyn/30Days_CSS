@@ -21,14 +21,14 @@ Body {
     position: absolute;
     width: 600px;
     height: 40px;
-    background: url(/Dia.29_GlitchEffect/pic.jpg);
+    background: url(/Dia.29_GlitchEffect/pic.jpg) no-repeat;
     background-size: cover;
     filter: sepia(100%);
     opacity: 0;
 }
 .pic:hover:before {
     opacity: 0.7;
-    animation: glitch 1.5s infinite linear;
+    animation: glitch 2.5s infinite linear;
 }
 @keyframes glitch {
     0% {
@@ -41,7 +41,7 @@ Body {
     }
     40% {
         top: 160px;
-        background-position: 6px 160px;
+        background-position: 6px -160px;
     }
     60% {
         top: 240px;
@@ -52,7 +52,7 @@ Body {
         background-position: 10px -320px;
     }
     100% {
-        top: 400px;
+        top: 450px;
         background-position: -12px -400px;
     }
 }
